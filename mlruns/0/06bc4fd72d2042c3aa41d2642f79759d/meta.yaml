@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/migumax/Documents/My_projects/Udemy/MLOps/updates/202401/mlflow_aws/mlruns/0/06bc4fd72d2042c3aa41d2642f79759d/artifacts
+end_time: 1707661198822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06bc4fd72d2042c3aa41d2642f79759d
+run_name: adorable-grouse-684
+run_uuid: 06bc4fd72d2042c3aa41d2642f79759d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707661196494
+status: 3
+tags: []
+user_id: migumax

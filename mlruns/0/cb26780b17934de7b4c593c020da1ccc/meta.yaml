@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/migumax/Documents/My_projects/Udemy/MLOps/updates/202401/mlflow_aws/mlruns/0/cb26780b17934de7b4c593c020da1ccc/artifacts
+end_time: 1707662124300
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb26780b17934de7b4c593c020da1ccc
+run_name: mercurial-eel-753
+run_uuid: cb26780b17934de7b4c593c020da1ccc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707662122800
+status: 3
+tags: []
+user_id: migumax

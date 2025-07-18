@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/migumax/Documents/My_projects/Udemy/MLOps/updates/202401/mlflow_aws/mlruns/0/f3f80a3563ed4714896f6e942dcbf41a/artifacts
+end_time: 1704837486827
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3f80a3563ed4714896f6e942dcbf41a
+run_name: resilient-fly-807
+run_uuid: f3f80a3563ed4714896f6e942dcbf41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704837485350
+status: 3
+tags: []
+user_id: migumax
