@@ -60,10 +60,11 @@ Navigate to http://127.0.0.1:8080/predict
 2. Import your github repo
 3. Modify src/mlflow_aws/config/configuration.py-> get_model_evaluation_config() in line #106 to your dagshub project URL
 4. Get the parameters from dagshub UI:
-MLFLOW_TRACKING_URI=https://dagshub.com/migumax/mlflow_aws.mlflow \
+<!-- MLFLOW_TRACKING_URI=https://dagshub.com/migumax/mlflow_aws.mlflow \
 MLFLOW_TRACKING_USERNAME=migumax \
 MLFLOW_TRACKING_PASSWORD=9cbae1b719fbb930f24346db8542134dec87fff6 \
-python script.py
+python script.py -->
+dagshub.init(repo_owner='pnastra', repo_name='mlflow_aws', mlflow=True)
 
 5. Run this to export as env variables in you local terminal (after adapting the values to yours):
 
@@ -95,7 +96,9 @@ Create Access keys pair
 	
 3. Create ECR repository to host our Docker image (use the same name)
     
-	- Input your ECR URI here for future use: 042386354197.dkr.ecr.eu-central-1.amazonaws.com/mlflow_aws
+	- Input your ECR URI here for future use: 
+	352010965082.dkr.ecr.ap-southeast-1.amazonaws.com/mlflow_aws
+	<!-- 042386354197.dkr.ecr.eu-central-1.amazonaws.com/mlflow_aws -->
 
 4. Create a new EC2 machine (Ubuntu 22.04, t2.large, 32GB SSD) 
 (use the same name as for everything else)

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/migumax/Documents/My_projects/Udemy/MLOps/updates/202401/mlflow_aws/mlruns/0/600a7cb8da1e4671a4dec7a03f37fd49/artifacts
+end_time: 1753168954489
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 600a7cb8da1e4671a4dec7a03f37fd49
+run_name: efficient-crane-266
+run_uuid: 600a7cb8da1e4671a4dec7a03f37fd49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753168952145
+status: 4
+tags: []
+user_id: pnastra
